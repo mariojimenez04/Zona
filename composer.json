@@ -1,0 +1,20 @@
+{
+    "name": "mario/zone",
+    "description": "Red social Oficial de Zone",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers",
+            "Model\\" : "./models",
+            "Classes\\" : "./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mario Jimenez",
+            "email": "cuentas.alexjimenez@gmail.com"
+        }
+    ],
+    "require": {}
+}

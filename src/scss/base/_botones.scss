@@ -1,0 +1,7 @@
+@use 'variables' as v;
+@use 'mixins' as m;
+
+/* BOTONES */
+.boton-1 {
+    @include m.boton(#023047, #ffffff);
+}

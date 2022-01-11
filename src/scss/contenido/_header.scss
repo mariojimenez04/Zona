@@ -1,0 +1,6 @@
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+/* HEADER */
+.boton-primero {
+    @include m.boton(v.$azul, v.$blanco);
+}

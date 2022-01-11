@@ -1,0 +1,18 @@
+{
+  "name": "red-social-zone",
+  "version": "1.0.0",
+  "description": "Red social Oficial Zone",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Alejandro Jimenez Terriquez",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-webp": "^4.0.1",
+    "sass": "^1.43.4"
+  }
+}
